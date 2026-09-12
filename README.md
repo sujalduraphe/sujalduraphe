@@ -12,14 +12,6 @@ Full-stack developer pursuing my MCA, building things across the web stack — f
 
 ---
 
-## 🔭 Currently
-
-- 🎓 Pursuing my MCA
-- 🚧 Building **ICON 2026** — a full-stack techfest website (Next.js/React + Express + MongoDB) with a live registration system
-- 🌱 Sharpening my full-stack skills — frontend polish, API design, and deployment
-
----
-
 ## 🛠️ Tech Stack
 
 #### Frontend
@@ -56,17 +48,6 @@ Full-stack developer pursuing my MCA, building things across the web stack — f
 | [**Moodify**](https://github.com/sujalduraphe3201/moodify) | Real-time facial emotion music recommender | React, Node.js, MediaPipe, Redis, MongoDB |
 | [**Interior Desk**](https://github.com/sujalduraphe3201/interior-design-system/tree/orange-theme) | Workflow & quotation management for interior designers | React, Node.js, MySQL, jsPDF |
 | [**ICON 2026**](https://github.com/sujalduraphe3201/ICON) | Full-stack techfest landing page + registration system | React/Next.js, Express, MongoDB |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sujalduraphe3201&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalduraphe3201&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
 
 ---
 
