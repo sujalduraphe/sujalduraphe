@@ -46,7 +46,7 @@
 |--------|-------------|-------|
 | [**Moodify**](https://github.com/sujalduraphe3201/moodify) | Real-time facial emotion music recommender | React, Node.js, MediaPipe, Redis, MongoDB |
 | [**Interior Desk**](https://github.com/sujalduraphe3201/interior-design-system/tree/orange-theme) | Workflow & quotation management for interior designers | React, Node.js, MySQL, jsPDF |
-| [**ICON 2026**](https://github.com/sujalduraphe3201/ICON) | Full-stack techfest landing page + registration system | React/Next.js, Express, MongoDB |
+| [**ICON 2026**](https://github.com/sujalduraphe3201/ICON) | Full-stack techfest landing page + registration system | React, Express, MongoDB |
 
 ---
 
