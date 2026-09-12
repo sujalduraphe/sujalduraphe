@@ -1,6 +1,9 @@
+```markdown
 <div align="center">
 
+# Hi, I'm Sujal Duraphe 👋
 
+Full-stack developer pursuing my MCA, building things across the web stack — from React frontends to Node/Express APIs backed by MongoDB and SQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujalduraphe/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalduraphe3201@gmail.com)
@@ -8,7 +11,15 @@
 
 </div>
 
+---
 
+## 🔭 Currently
+
+- 🎓 Pursuing my MCA
+- 🚧 Building **ICON 2026** — a full-stack techfest website (Next.js/React + Express + MongoDB) with a live registration system
+- 🌱 Sharpening my full-stack skills — frontend polish, API design, and deployment
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -45,9 +56,22 @@
 |--------|-------------|-------|
 | [**Moodify**](https://github.com/sujalduraphe3201/moodify) | Real-time facial emotion music recommender | React, Node.js, MediaPipe, Redis, MongoDB |
 | [**Interior Desk**](https://github.com/sujalduraphe3201/interior-design-system/tree/orange-theme) | Workflow & quotation management for interior designers | React, Node.js, MySQL, jsPDF |
+| [**ICON 2026**](https://github.com/sujalduraphe3201/ICON) | Full-stack techfest landing page + registration system | React/Next.js, Express, MongoDB |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujalduraphe3201&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalduraphe3201&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%" />
 </div>
+```
