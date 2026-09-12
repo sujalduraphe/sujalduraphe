@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi, I'm Sujal Duraphe 👋
@@ -74,4 +73,3 @@ Full-stack developer pursuing my MCA, building things across the web stack — f
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%" />
 </div>
-```
