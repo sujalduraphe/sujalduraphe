@@ -2,7 +2,6 @@
 
 # Hi, I'm Sujal Duraphe 👋
 
-Full-stack developer pursuing my MCA, building things across the web stack — from React frontends to Node/Express APIs backed by MongoDB and SQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujalduraphe/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalduraphe3201@gmail.com)
